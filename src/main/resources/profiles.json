@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "title": "software developer",
+    "company": "Microsoft",
+    "area": "cloud",
+    "skills": "java, gradle, kotlin",
+    "experience": "1",
+    "certificates": "java I"
+  },
+  {
+    "id": "2",
+    "title": "developer",
+    "company": "Apple",
+    "area": "enterprise",
+    "skills": "python, django",
+    "experience": "2",
+    "certificates": "python I"
+  },
+  {
+    "id": "3",
+    "title": "it-specialist",
+    "company": "Citi",
+    "area": "financial",
+    "skills": "js",
+    "experience": "3",
+    "certificates": ""
+  },
+  {
+    "id": "4",
+    "title": "engineer",
+    "company": "Government",
+    "area": "government",
+    "skills": ".net, c#",
+    "experience": "4",
+    "certificates": ".net I"
+  },
+  {
+    "id": "5",
+    "title": "software engineer",
+    "company": "UN",
+    "area": "non-profit",
+    "skills": "c++, c, asm",
+    "experience": "5",
+    "certificates": ".net I"
+  },
+  {
+    "id": "6",
+    "title": "it-specialist",
+    "company": "Government",
+    "area": "government",
+    "skills": "java, gradle, kotlin",
+    "experience": "1",
+    "certificates": "java II"
+  },
+  {
+    "id": "7",
+    "title": "developer",
+    "company": "Microsoft",
+    "area": "cloud",
+    "skills": "python, django",
+    "experience": "2",
+    "certificates": "python I"
+  },
+  {
+    "id": "8",
+    "title": "developer",
+    "company": "UN",
+    "area": "financial",
+    "skills": "js",
+    "experience": "3",
+    "certificates": ""
+  },
+  {
+    "id": "9",
+    "title": "software engineer",
+    "company": "Apple",
+    "area": "enterprise",
+    "skills": "c++, c, asm",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "10",
+    "title": "it-specialist",
+    "company": "Government",
+    "area": "government",
+    "skills": "java, gradle, kotlin",
+    "experience": "5",
+    "certificates": ""
+  },
+  {
+    "id": "11",
+    "title": "engineer",
+    "company": "Citi",
+    "area": "financial",
+    "skills": "python, django",
+    "experience": "1",
+    "certificates": ""
+  },
+  {
+    "id": "12",
+    "title": "developer",
+    "company": "Microsoft",
+    "area": "cloud",
+    "skills": ".net, c#",
+    "experience": "2",
+    "certificates": ".net I"
+  },
+  {
+    "id": "13",
+    "title": "engineer",
+    "company": "Apple",
+    "area": "enterprise",
+    "skills": ".net, c#",
+    "experience": "3",
+    "certificates": ".net II"
+  },
+  {
+    "id": "14",
+    "title": "software developer",
+    "company": "UN",
+    "area": "government",
+    "skills": "c++, c, asm",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "15",
+    "title": "software engineer",
+    "company": "Government",
+    "area": "financial",
+    "skills": "python, django",
+    "experience": "5",
+    "certificates": "python II"
+  },
+  {
+    "id": "16",
+    "title": "it-specialist",
+    "company": "Microsoft",
+    "area": "cloud",
+    "skills": "java, gradle, kotlin",
+    "experience": "1",
+    "certificates": "java II"
+  },
+  {
+    "id": "17",
+    "title": "developer",
+    "company": "Citi",
+    "area": "enterprise",
+    "skills": "python, django",
+    "experience": "2",
+    "certificates": ""
+  },
+  {
+    "id": "18",
+    "title": "software developer",
+    "company": "UN",
+    "area": "financial",
+    "skills": "js",
+    "experience": "3",
+    "certificates": ""
+  },
+  {
+    "id": "19",
+    "title": "engineer",
+    "company": "Government",
+    "area": "financial",
+    "skills": "c++, c, asm",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "20",
+    "title": "developer",
+    "company": "Citi",
+    "area": "financial",
+    "skills": ".net, c#",
+    "experience": "5",
+    "certificates": ".net I"
+  },
+  {
+    "id": "21",
+    "title": "software developer",
+    "company": "Microsoft",
+    "area": "enterprise",
+    "skills": "java, gradle, kotlin",
+    "experience": "1",
+    "certificates": ""
+  },
+  {
+    "id": "22",
+    "title": "software engineer",
+    "company": "UN",
+    "area": "government",
+    "skills": "js",
+    "experience": "2",
+    "certificates": ""
+  },
+  {
+    "id": "23",
+    "title": "it-specialist",
+    "company": "Apple",
+    "area": "enterprise",
+    "skills": "c++, c, asm",
+    "experience": "3",
+    "certificates": ""
+  },
+  {
+    "id": "24",
+    "title": "software developer",
+    "company": "Government",
+    "area": "government",
+    "skills": ".net, c#",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "25",
+    "title": "engineer",
+    "company": "Microsoft",
+    "area": "enterprise",
+    "skills": "js",
+    "experience": "5",
+    "certificates": ""
+  },
+  {
+    "id": "26",
+    "title": "software developer",
+    "company": "Apple",
+    "area": "enterprise",
+    "skills": "js",
+    "experience": "1",
+    "certificates": ""
+  },
+  {
+    "id": "27",
+    "title": "software engineer",
+    "company": "UN",
+    "area": "government",
+    "skills": "python, django",
+    "experience": "2",
+    "certificates": "python I"
+  },
+  {
+    "id": "28",
+    "title": "it-specialist",
+    "company": "Government",
+    "area": "financial",
+    "skills": "java, gradle, kotlin",
+    "experience": "3",
+    "certificates": "java I"
+  },
+  {
+    "id": "29",
+    "title": "developer",
+    "company": "Citi",
+    "area": "financial",
+    "skills": "c++, c, asm",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "30",
+    "title": "software developer",
+    "company": "UN",
+    "area": "government",
+    "skills": ".net, c#",
+    "experience": "5",
+    "certificates": ""
+  },
+  {
+    "id": "31",
+    "title": "software engineer",
+    "company": "Government",
+    "area": "government",
+    "skills": "python, django",
+    "experience": "1",
+    "certificates": ""
+  },
+  {
+    "id": "32",
+    "title": "engineer",
+    "company": "Citi",
+    "area": "enterprise",
+    "skills": "java, gradle, kotlin",
+    "experience": "2",
+    "certificates": ""
+  },
+  {
+    "id": "33",
+    "title": "it-specialist",
+    "company": "Microsoft",
+    "area": "enterprise",
+    "skills": "c++, c, asm",
+    "experience": "3",
+    "certificates": ""
+  },
+  {
+    "id": "34",
+    "title": "engineer",
+    "company": "UN",
+    "area": "government",
+    "skills": "python, django",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "35",
+    "title": "developer",
+    "company": "Apple",
+    "area": "enterprise",
+    "skills": ".net, c#",
+    "experience": "5",
+    "certificates": ".net I"
+  },
+  {
+    "id": "36",
+    "title": "engineer",
+    "company": "Government",
+    "area": "financial",
+    "skills": "js",
+    "experience": "1",
+    "certificates": ""
+  },
+  {
+    "id": "37",
+    "title": "engineer",
+    "company": "Citi",
+    "area": "financial",
+    "skills": ".net, c#",
+    "experience": "2",
+    "certificates": ""
+  },
+  {
+    "id": "38",
+    "title": "software engineer",
+    "company": "UN",
+    "area": "government",
+    "skills": "js",
+    "experience": "3",
+    "certificates": ""
+  },
+  {
+    "id": "39",
+    "title": "software developer",
+    "company": "Apple",
+    "area": "cloud",
+    "skills": "c++, c, asm",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "40",
+    "title": "it-specialist",
+    "company": "Citi",
+    "area": "enterprise",
+    "skills": "java, gradle, kotlin",
+    "experience": "5",
+    "certificates": "java I"
+  },
+  {
+    "id": "41",
+    "title": "software developer",
+    "company": "Microsoft",
+    "area": "enterprise",
+    "skills": ".net, c#",
+    "experience": "1",
+    "certificates": ".net I"
+  },
+  {
+    "id": "42",
+    "title": "developer",
+    "company": "Apple",
+    "area": "cloud",
+    "skills": "c++, c, asm",
+    "experience": "2",
+    "certificates": ""
+  },
+  {
+    "id": "43",
+    "title": "software engineer",
+    "company": "Citi",
+    "area": "financial",
+    "skills": "java, gradle, kotlin",
+    "experience": "3",
+    "certificates": ""
+  },
+  {
+    "id": "44",
+    "title": "it-specialist",
+    "company": "Government",
+    "area": "financial",
+    "skills": "js",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "45",
+    "title": "software developer",
+    "company": "UN",
+    "area": "government",
+    "skills": ".net, c#",
+    "experience": "5",
+    "certificates": ".net II"
+  },
+  {
+    "id": "46",
+    "title": "software engineer",
+    "company": "Apple",
+    "area": "cloud",
+    "skills": "python, django",
+    "experience": "1",
+    "certificates": ""
+  },
+  {
+    "id": "47",
+    "title": "developer",
+    "company": "Microsoft",
+    "area": "enterprise",
+    "skills": "c++, c, asm",
+    "experience": "2",
+    "certificates": ""
+  },
+  {
+    "id": "48",
+    "title": "engineer",
+    "company": "Citi",
+    "area": "financial",
+    "skills": "python, django",
+    "experience": "3",
+    "certificates": "python II"
+  },
+  {
+    "id": "49",
+    "title": "it-specialist",
+    "company": "Apple",
+    "area": "cloud",
+    "skills": "java, gradle, kotlin",
+    "experience": "4",
+    "certificates": ""
+  },
+  {
+    "id": "50",
+    "title": "software engineer",
+    "company": "Microsoft",
+    "area": "cloud",
+    "skills": "js",
+    "experience": "5",
+    "certificates": ""
+  }
+]
